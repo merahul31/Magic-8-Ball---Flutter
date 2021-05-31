@@ -15,10 +15,10 @@ A few resources to get you started if this is your first Flutter project:
 
 The application contains only a single screen that tells you the answer when you click on the image.
 
-          <img src="/readme_images/1.jpg" width="250">
+   <img src="/readme_images/1.jpg" width="250">
 
 There are 5 types of answers - Yes, No, Ask Again Later, I Have No Idea, The Answer Is Yes.
 
-          <img src="/readme_images/2.jpg" width="250">   <img src="/readme_images/3.jpg" width="250">
+   <img src="/readme_images/2.jpg" width="250">   <img src="/readme_images/3.jpg" width="250">
 
-          <img src="/readme_images/4.jpg" width="250">   <img src="/readme_images/5.jpg" width="250">
+   <img src="/readme_images/4.jpg" width="250">   <img src="/readme_images/5.jpg" width="250">
