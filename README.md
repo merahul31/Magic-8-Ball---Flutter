@@ -23,6 +23,7 @@ There are 5 types of answers - Yes, No, Ask Again Later, I Have No Idea, The Ans
 
 <p align="center">
    <img src="/readme_images/2.jpg" width="250">   <img src="/readme_images/3.jpg" width="250">
-
+</p>
+<p align="center">
    <img src="/readme_images/4.jpg" width="250">   <img src="/readme_images/5.jpg" width="250">
 </p>
